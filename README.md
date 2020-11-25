@@ -34,3 +34,15 @@ The data files, which have been normalised between [-1,1], are organised as:
 
 If group_id=0, the pedestrian of interest does not belong to any group.
 
+## Requirements
+* Python 3
+* Seaborn (https://seaborn.pydata.org/)
+* PyTorch (http://pytorch.org/)
+* Numpy
+* Matplotlib
+* Scipy
+
+## How to Run
+* Before running the code, create the required directories by running the script `make_directories.sh`
+* To train the model run `python train.py` (See the code to understand all the arguments that can be given to the command)
+* To test the model run `python sample.py --epoch=n` where `n` is the epoch at which you want to load the saved model.
