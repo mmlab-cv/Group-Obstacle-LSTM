@@ -1,5 +1,4 @@
 # Group-Obstacle-LSTM
-<<<<<<< HEAD
 Code for the papers Group-LSTM (ECCV2018) and Group-Obstacle-LSTM (CVIU2020).
 
 
@@ -10,7 +9,7 @@ Code for the papers Group-LSTM (ECCV2018) and Group-Obstacle-LSTM (CVIU2020)
 
 
 This repo contains a Tensorflow implementation for our [ECCV paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Bisagno_Group_LSTM_Group_Trajectory_Prediction_in_Crowded_Scenarios_ECCVW_2018_paper.pdf) and our [CVIU paper](https://www.sciencedirect.com/science/article/pii/S1077314220301454?casa_token=mArBjZiDVYoAAAAA:BkQvs7yJcF8YhXfHpYtmxlfQOUvyyRz94symyUV8jm90D8sS3rgLgwd9DConXMbzqFWgB5xD5w).  If you find this code useful in your research, please consider citing:
->>>>>>> main
+
 
     @inproceedings{bisagno2018group,
     title={Group lstm: Group trajectory prediction in crowded scenarios},
