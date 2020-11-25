@@ -25,11 +25,11 @@ This repo contains a Tensorflow implementation for our [ECCV paper](http://opena
 This code was tested on an Ubuntu 14.04 system using Pytorch 0.3.1
 
 The data files are organised as:
--frame_id
--Pedestrian_id
--x_position
--y_position
--group_id
+    -frame_id
+    -Pedestrian_id
+    -x_position
+    -y_position
+    -group_id
 
 If group_id=0, the pedestrian of interest does not belong to any group.
 
